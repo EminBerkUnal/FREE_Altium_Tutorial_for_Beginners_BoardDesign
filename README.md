@@ -7,11 +7,11 @@ This project was developed as a practical PCB design exercise following the **FR
 
 ## PCB 3D View
 
-![PCB 3D View](Outputs/REPLACE_WITH_ACTUAL_IMAGE.png)
+![PCB 3D View](Outputs/LED_PCB.png)
 
 ## Schematic
 
-[View / Download Schematic (PDF)](Outputs/REPLACE_WITH_ACTUAL_SCHEMATIC.pdf)
+[View / Download Schematic (PDF)](Outputs/LED_Schematic.pdf)
 
 ## Project Files
 
